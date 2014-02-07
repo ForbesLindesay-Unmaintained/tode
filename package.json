@@ -1,6 +1,6 @@
 {
   "name": "tode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "bin": "bin/tode.js",
   "description": "Launch node with TOML for configuration",
   "keywords": [],
