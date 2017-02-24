@@ -1,5 +1,7 @@
 # tode
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/tode.svg)](https://greenkeeper.io/)
+
 Launch node with TOML files for configuration.  It simply populates your environment variables from any TOML files it can find by looking up the directory tree.  It loads from `environment.toml` by default, but this is configurable if you need to be able to quickly swap your environment out.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/tode/master.svg)](https://travis-ci.org/ForbesLindesay/tode)
